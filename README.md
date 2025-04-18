@@ -1,2 +1,2 @@
 # BD
-Every thing about BD course
+BD project

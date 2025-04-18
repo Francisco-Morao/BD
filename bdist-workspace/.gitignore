@@ -1,0 +1,10 @@
+app/
+data/
+images/
+work/
+node_modules/
+**/.ipynb_checkpoints/
+**/*.db
+**/*.db-journal
+**/*.db-shm
+**/*.db-wal
